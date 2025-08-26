@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import FullWidthSlider from "../Components/FullWidthSlider";
+import FullWidthSlider from "../components/FullWidthSlider";
+
 
 export default function Home() {
   return (
